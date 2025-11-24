@@ -333,7 +333,7 @@ export const MOCK_MENU_LIST = [
         status: 1,
         meta: {
           icon: 'carbon:book',
-          iframeSrc: 'https://doc.vben.pro',
+          iframeSrc: 'https://ducrong.com/vue-vben-admin-antd/docs',
           title: 'demos.vben.document',
         },
       },

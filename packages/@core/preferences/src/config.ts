@@ -27,7 +27,7 @@ const defaultPreferences: Preferences = {
     layout: 'sidebar-nav',
     locale: 'zh-CN',
     loginExpiredMode: 'page',
-    name: 'Vben Admin',
+    name: 'Vue Vben Admin Antd',
     preferencesButtonPosition: 'auto',
     watermark: false,
     watermarkContent: '',

@@ -19,7 +19,7 @@ hero:
       link: https://www.vben.pro
     - theme: alt
       text: View on GitHub
-      link: https://github.com/vbenjs/vue-vben-admin
+      link: https://github.com/Ducr/vue-vben-admin-antd
 
 features:
   - icon: 🚀

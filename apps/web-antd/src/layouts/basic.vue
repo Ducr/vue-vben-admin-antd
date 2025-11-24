@@ -71,7 +71,7 @@ const notifications = ref<NotificationItem[]>([
     isRead: false,
     message: '描述信息描述信息描述信息',
     title: '跳转外部链接示例',
-    link: 'https://doc.vben.pro',
+    link: 'https://ducrong.com/vue-vben-admin-antd/docs',
   },
 ]);
 
