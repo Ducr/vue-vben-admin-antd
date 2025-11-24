@@ -16,10 +16,10 @@ hero:
       link: /en/guide/introduction/vben
     - theme: alt
       text: Live Preview
-      link: https://www.vben.pro
+      link: https://ducrong.com/vue-vben-admin-antd
     - theme: alt
       text: View on GitHub
-      link: https://github.com/vbenjs/vue-vben-admin
+      link: https://github.com/Ducr/vue-vben-admin-antd
 
 features:
   - icon: 🚀

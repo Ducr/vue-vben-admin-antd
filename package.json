@@ -1,5 +1,5 @@
 {
-  "name": "vben-admin-monorepo",
+  "name": "vue-vben-admin-antd",
   "version": "5.5.9",
   "private": true,
   "keywords": [
@@ -14,14 +14,17 @@
     "vue vben admin pro",
     "vue3"
   ],
-  "homepage": "https://github.com/vbenjs/vue-vben-admin",
-  "bugs": "https://github.com/vbenjs/vue-vben-admin/issues",
-  "repository": "vbenjs/vue-vben-admin.git",
+  "homepage": "https://github.com/Ducr/vue-vben-admin-antd",
+  "bugs": "https://github.com/Ducr/vue-vben-admin-antd/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ducr/vue-vben-admin-antd.git"
+  },
   "license": "MIT",
   "author": {
-    "name": "vben",
-    "email": "ann.vben@gmail.com",
-    "url": "https://github.com/anncwb"
+    "name": "Ducr",
+    "email": "ducrong@126.com",
+    "url": "https://github.com/Ducr"
   },
   "type": "module",
   "scripts": {
@@ -106,9 +109,9 @@
       "@ctrl/tinycolor": "catalog:",
       "clsx": "catalog:",
       "esbuild": "0.25.3",
+      "jiti": "^2.6.1",
       "pinia": "catalog:",
-      "vue": "catalog:",
-      "jiti": "^2.6.1"
+      "vue": "catalog:"
     },
     "neverBuiltDependencies": [
       "canvas",
